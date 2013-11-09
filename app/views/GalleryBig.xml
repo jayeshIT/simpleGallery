@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="GalleryBig" id="GalleryBig">
+		<ScrollableView class="scrollable1" id="scrollable1"/>
+	</Window>
+</Alloy>
